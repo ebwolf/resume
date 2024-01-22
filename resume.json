@@ -1,0 +1,546 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Erica Wolf",
+    "label": "Software Engineer in Test | SAFe, Agile, Python, Quality Assurance, CI/CD",
+    "image": "",
+    "email": "ebwolf@gmail.com",
+    "phone": "7203347734",
+    "url": "",
+    "summary": "I am a Software Development Engineer in Test with ten years of experience at NetApp/Solidfire, a leading provider of cloud data services and data management solutions. I am passionate about ensuring the quality and reliability of software products and systems, especially in the hybrid cloud infrastructure (HCI) domain. \n\nAs part of a quality team, I use Python, Pytest, Jenkins, and Kubernetes to write, execute, and automate tests, analyze test requirements and results, triage failures, and extend the CI/CD process for systems level testing. A part of a feature development team, I used Java8 to contribute to the integration of VMware vSphere, VASA, and VVols features for the Solidfire storage system, which is the core component of NetApp HCI. I hold certifications as a ScrumMaster and a SAFe 4 Practitioner, and ITSQB Foundational Level, and I have mentored other young software engineers through AnitaB.org and Out in Technology. I strive to deliver high-quality software solutions that meet the needs and expectations of our customers and stakeholders.",
+    "location": {
+      "countryCode": "US",
+      "address": "530 Hiawatha Ave\nInverness, FL 34452"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ebwolf",
+        "url": "https://www.linkedin.com/in/ebwolf/"
+      },
+      {
+        "network": "Twitter",
+        "username": "ebwolf",
+        "url": "https://twitter.com/ebwolf"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "NetApp",
+      "position": "Software Development Engineer In Test",
+      "startDate": "2016-02-28",
+      "endDate": "2023-04-30",
+      "highlights": [],
+      "summary": "NetApp acquired Solidfire in 2016. Soon after, I was asked to join a new quality team working on a new HCI (Hybrid Cloud Infrastructure) product. The HCI product was based around VMware vSphere and my recent experience with VMware VASA and VVols as well as my experience with the Solidfire SAN product were assets this new team could utilize.\n\nAs a test automation engineer on a team responsible for the final quality of the NetApp HCI  product. I helped analyze test requirements, write test reports, triage failures in our CI/CD process, and extend the CI/CD process in Jenkins for systems level testing. I earned SAFe Certification for PO/PM, have had certification as a Scrum Master, as well as SAFe courses in CI/CD and Kanban. I participated in implementing Scaled Agile Framework (SAFe) across the NetApp/Solidfire engineering organization.\n\nStarting in 2020, Netapp has been pivoting hard towards solutions for Kubernetes. I received a promotion from MTS3 to MTS4 and shifted to primarily writing automated test code for our premier Kubernetes product line, Astra.\n\nI was active with several Diversity and Inclusion Business Resource Groups. I was membership lead for the new NetAbled Group for employees with exceptional abilities, Women in Technology (WIT) as a mentor, and the Pride group.",
+      "url": "https://www.linkedin.com/company/netapp/",
+      "location": "Boulder, Colorado"
+    },
+    {
+      "name": "SolidFire, Inc.",
+      "position": "Software Engineer",
+      "startDate": "2014-07-31",
+      "endDate": "2016-02-28",
+      "highlights": [],
+      "summary": "I helped Increase market exposure in the enterprise storage market by implementing VASA 2.0 support for the SolidFire storage system. VASA is the control path for VMware Virtual Volumes, which greatly simplifies storage management in a virtualized IT environment. \n\nSolidFire was acquired by NetApp, Inc. in February 2016.",
+      "url": "https://www.linkedin.com/company/solidfire-inc-/",
+      "location": "Boulder, CO"
+    },
+    {
+      "name": "SolidFire, Inc.",
+      "position": "Senior Automation Engineer",
+      "startDate": "2012-11-30",
+      "endDate": "2014-07-31",
+      "highlights": [],
+      "summary": "Helped create and manage an automated software quality process for the industry-leading software-defined cloud storage system. Explored new statistical approaches for guaranteeing regression and functional test coverage while reducing time to market. I transitioned to the Host Integrations development group to work on VMware integration for the SolidFire SAN. After my transition, SolidFire created a new Release Quality Development team to cover the work was doing.",
+      "url": "https://www.linkedin.com/company/solidfire-inc-/",
+      "location": "Boulder, CO"
+    },
+    {
+      "name": "U.S. Geological Survey (USGS)",
+      "position": "Geographer",
+      "startDate": "2008-05-31",
+      "endDate": "2012-10-31",
+      "highlights": [],
+      "summary": "Project: The National Map Corps\n•\tImproved usability of the Adobe Flash-based map-editing interface, Potlatch2, by streamlining functionality and  customizing feature types, enabling youth groups to contribute data.\n•\tModified the OpenStreetMap Ruby on Rails web application to meet Federal accessibility and identity standards for sites hosted in the .GOV domain.\n•\tDeveloped Python scripts to integrate the OpenStreetMap API with Esri ArcGIS to validate data through the USGS internal data quality control processes, allowing user contributed data to be added to The National Map for the first time in the history of the project.\n\nResearch Project: Volunteered Geographic Information for The National Map\n•\tDeveloped Python scripts to compare data in OpenStreetMap.org  to the same data from The National Map Corps to establish the value of a structured approach to user generated data.\n•\tOrganized a panel discussion at State of the Map 2011 on the Meaning of Authority in Spatial Data.\n\nResearch Project: User-Centered Design for The National Map\n•\tCreated a benchmark for automated cartographic generalization to demonstrate web client-based versus server-based geoprocessing to guide the systems architecture of future versions of The National Map.\n•\tDemonstrated the need for cloud-based map tile generation to support high-traffic web sites in the USGS.\n\nResearch Project: Developing an Ontology for The National Map\n•\tAssisted in the publication of data from The National Map on the Semantic Web by converting spatial data from Oracle Spatial to Notation3 following draft OGC specifications for GeoSPARQL, allowing data to be linked across database domains while preserving provenance.",
+      "url": "https://www.linkedin.com/company/usgs/"
+    },
+    {
+      "name": "University of Colorado at Boulder",
+      "position": "Research Associate",
+      "startDate": "2006-06-30",
+      "endDate": "2008-05-31",
+      "highlights": [],
+      "summary": "Created a topology-preserving, multiple representation database for vector spatial data in C++ which allows data to be compiled at one resolution but used at multiple cartographic scales.",
+      "url": "https://www.linkedin.com/school/cuboulder/"
+    },
+    {
+      "name": "University of Tennessee at Chattanooga",
+      "position": "GIS Evangelist",
+      "startDate": "2002-07-31",
+      "endDate": "2006-06-30",
+      "highlights": [],
+      "summary": "•\tTaught guest lectures and provided training and support across university departments to encourage the application of GIS software and techniques.\n•\tCreated a user-friendly extension for ArcGIS in Visual Basic for creating area-by-value cartograms, downloaded almost 7000 times, used in classrooms and publications worldwide.",
+      "url": "https://www.linkedin.com/school/utchattanooga/"
+    },
+    {
+      "name": "Q-Debit, Inc.",
+      "position": "Senior E-Commerce Architect",
+      "startDate": "1999-08-31",
+      "endDate": "2001-10-31",
+      "highlights": [],
+      "summary": "•\tCreated a financial transaction processing system in Perl with Sybase ASE interfaced with the Federal Reserve ACH system to convert paper checks to electronic bank transactions.\n•\tAppended invoice data to electronic bank transactions resulting reduced transaction costs.",
+      "url": ""
+    },
+    {
+      "name": "McKee Foods",
+      "position": "Senior Systems Analyst - Purchased Applications",
+      "startDate": "1999-12-31",
+      "endDate": "2000-12-31",
+      "highlights": [],
+      "summary": "•\tHelped reduce costs for Little Debbie snack cakes using Oracle Pro*C to interface Oracle Process Manufacturing 11 with IBM Cognos data mining tools on HP/UX systems.",
+      "url": ""
+    },
+    {
+      "name": "Cyberflix",
+      "position": "Codesmith",
+      "startDate": "1997-08-31",
+      "endDate": "1999-08-31",
+      "highlights": [],
+      "summary": "•\tAdded DVD/MPEG2 video streaming to the cross-platform game engine, DreamFactory, used in the Disney Interactive title “The D-Show” featuring hundreds of movie clips from Disney media holdings.",
+      "url": ""
+    },
+    {
+      "name": "Micro Sports, Inc.",
+      "position": "Senior Programmer",
+      "startDate": "1995-07-31",
+      "endDate": "1997-08-31",
+      "highlights": [],
+      "summary": "•\tCreated in-house tools in C to render game media assets created in Alias Wavefront using lower-cost PCs, resulting in higher quality game graphics produced in a fraction of the time required by SGI workstations.\n•\tAdded internet multiplayer capabilities to statistically accurate sports games.\n•\tCredited in sports games distributed by IBM Multimedia and Sports Illustrated.",
+      "url": ""
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Travis High School, Austin, TX",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Poquoson High School",
+      "area": "Internship at NASA LaRC",
+      "studyType": "High School Diploma",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Northwest Missouri State University",
+      "area": "GIScience",
+      "studyType": "MS",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "The University of Tennessee at Chattanooga",
+      "area": "Applied Mathematics",
+      "studyType": "BS",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certified ScrumMaster",
+      "issuer": "Scrum Alliance",
+      "startDate": "2014-01-31",
+      "url": "http://www.scrumalliance.org/community/profile/ewolf6"
+    },
+    {
+      "name": "Certified SAFe 4 Practitioner",
+      "issuer": "Scaled Agile, Inc.",
+      "endDate": "2019-05-31",
+      "startDate": "2018-05-31",
+      "url": "https://community.scaledagile.com/s/profile/0050W000006bZsOQAU"
+    },
+    {
+      "name": "AnitaB.org Mentor Badge",
+      "issuer": "AnitaB.org",
+      "startDate": "2022-04-30",
+      "url": "https://cdn.ymaws.com/membership365-abitab.site-ym.com/resource/resmgr/mentorship/mentor_22_x1.png"
+    },
+    {
+      "name": "Certified Tester, Foundation Level",
+      "issuer": "ASTQB - ISTQB in the U.S.",
+      "startDate": "2023-08-31"
+    },
+    {
+      "name": "Certified Tester Foundation Level Agile Tester",
+      "issuer": "ASTQB - ISTQB in the U.S.",
+      "startDate": "2024-01-31",
+      "url": "https://atsqa.org/certified-testers/profile/164ac57c2b6748d4be7cdce0be78ea19"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Structures Data Collection for The National Map using Volunteered Geographic Information",
+      "publisher": "USGS",
+      "releaseDate": "2012-10-04",
+      "summary": "The U.S. Geological Survey (USGS) has historically sponsored volunteered data collection \nprojects to enhance its topographic paper and digital map products. This report describes one \nphase of an ongoing project to encourage volunteers to contribute data to The National Map\nusing online editing tools. The USGS recruited students studying geographic information \nsystems (GIS) at the University of Colorado Denver and the University of Denver in the spring \nof 2011 to add data on structures—manmade features such as schools, hospitals, and libraries—\nto four quadrangles covering metropolitan Denver. The USGS customized a version of the online \nPotlatch editor created by the OpenStreetMap project and populated it with 30 structure types \ndrawn from the Geographic Names Information System (GNIS), a USGS database of geographic \nfeatures. The students corrected the location and attributes of these points and added information \non structures that were missing. There were two rounds of quality control. Student volunteers \nreviewed each point, and an in-house review of each point by the USGS followed.  \nNine-hundred and thirty-eight structure points were initially downloaded from the USGS \ndatabase. Editing and quality control resulted in 1,214 structure points that were subsequently \nadded to The National Map. A post-project analysis of the data shows that after student edit and \npeer review, 92 percent of the points contributed by volunteers met National Map Accuracy \nStandards for horizontal accuracy. Lessons from this project will be applied to later phases. \nThese include: \nsimplifying editing tasks and the user interfaces,  \nstressing to volunteers the importance of adding structures that are missing, and \nemphasizing the importance of conforming to editorial guidelines for formatting names and \naddresses of structures.",
+      "url": "https://pubs.usgs.gov/of/2012/1209/pdf/ofr2012-1209.pdf"
+    },
+    {
+      "name": "Metadata Squared: Enhancing Its Usability for Volunteered Geographic Information and the GeoWeb",
+      "publisher": "Springer, Dordrecht",
+      "releaseDate": "2012-08-10",
+      "summary": "The Internet has brought many changes to the way geographic information is created and shared. One aspect that has not changed is metadata. Static spatial data quality descriptions were standardized in the mid-1990s and cannot accommodate the current climate of data creation where nonexperts are using mobile phones and other location-based devices on a continuous basis to contribute data to Internet mapping platforms. The usability of standard geospatial metadata is being questioned by academics and neogeographers alike. This chapter analyzes current discussions of metadata to demonstrate how the media shift that is occurring has affected requirements for metadata. Two case studies of metadata use are presented—online sharing of environmental information through a regional spatial data infrastructure in the early 2000s, and new types of metadata that are being used today in OpenStreetMap, a map of the world created entirely by volunteers. Changes in metadata requirements are examined for usability, the ease with which metadata supports coproduction of data by communities of users, how metadata enhances findability, and how the relationship between metadata and data has changed. We argue that traditional metadata associated with spatial data infrastructures is inadequate and suggest several research avenues to make this type of metadata more interactive and effective in the GeoWeb.",
+      "url": "https://link.springer.com/chapter/10.1007/978-94-007-4587-2_4"
+    },
+    {
+      "name": "Web-Client Based Distributed Generalization and Geoprocessing",
+      "publisher": "IEEE",
+      "releaseDate": "2009-02-01",
+      "summary": "Generalization and geoprocessing operations on geospatial information were once the domain of complex software running on high-performance workstations. Currently, these computationally intensive processes are the domain of desktop applications. Recent efforts have been made to move geoprocessing operations server-side in a distributed, web accessible environment. This paper initiates research into portable client-side generalization and geoprocessing operations as part of a larger effort in user-centered design for the US Geological Survey's The National Map. An implementation of the Ramer-Douglas-Peucker (RDP) line simplification algorithm was created in the open source OpenLayers geoweb client. This algorithm implementation was benchmarked using differing data structures and browser platforms. The implementation and results of the benchmarks are discussed in the general context of client-side geoprocessing.",
+      "url": "https://ieeexplore.ieee.org/abstract/document/4782703"
+    },
+    {
+      "name": "MAPPING CEMETERIES WITH BALLOON AERIAL PHOTOGRAPHY",
+      "publisher": "ASPRS 2008 Annual Conference",
+      "releaseDate": "2008-04-28",
+      "summary": "Many times, aerial photos via platforms like airplanes and helicopters are chosen for ground reference. Compared to\nsatellite-borne images, such aerial photos provide spatial details that allow investigators to closely examine features\nand their spatial distribution. Aerial mapping companies update their aerial photo archive once in several years,\neven once in decades in some areas. Requiring flight lines to fit special research needs normally is time consuming\nand expense prohibiting. This project demonstrates the use of balloon aerial photos for mapping small features over\na small geographic extent, e.g., gravestones in cemeteries. The imaging system consists of a consumer digital\ncamera, a camera mounting rig with picavet suspension, a balloon measured at 1.5 meter diameter filled with helium\n(sometimes a 2.8-square meter kite) , and a tether. The altitude of balloon was controlled by the tether at about 50\nmeter above the ground; resulting in high spatial resolution images at about 1.5 centimeter cell size. Another\nadvantage of the balloon aerial photography is the flexibility. As long as weather permits, the temporal resolution\ncan range from years, months, weeks, to days, hours, or even minutes. The system was tested on three cemeteries\nexhibiting several qualities of the Upland South Folk Cemetery complex near Chattanooga, Tennessee. Gravestones\nwere digitalized from these aerial photos. Locations and facing directions of gravestones are compared to ground\nmeasurements using DGPS.",
+      "url": "https://www.asprs.org/a/publications/proceedings/portland08/0028.pdf"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Game Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle Database",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VisualBASIC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mentoring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Image Processing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cartography",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Maps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perl",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C/C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostGIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ArcMap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geography",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ArcGIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ESRI",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geomatics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geospatial",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Mapping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ArcGIS Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geoprocessing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ArcObjects",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "pytest",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Aerial Photography",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Quantum GIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spatial Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scaled Agile Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GIS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Mapping",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "VMware vSphere",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Remote Sensing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spatial Analysis",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Collection",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Geographic Information Systems (GIS)",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "German"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "Spanish"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Rebecca Rodriguez",
+      "reference": "Over the past two years, I have had the privilege of being mentored by Erica through the Anita B mentorship program. Erica has served as a remarkable mentor and her impact on my professional growth has been nothing short of transformative. She brings with her a wealth of experience, a dedication to excellence, and a proven track record of nurturing talent. Any organization fortunate enough to have her on board will undoubtedly benefit from her leadership, expertise, and commitment to fostering a culture of growth and inclusivity. I wholeheartedly endorse her and am confident that she will continue to shine wherever her path leads her."
+    },
+    {
+      "name": "Tae Kim",
+      "reference": "It was a great working with Erica at SolidFire during rapid growth of product line and the company.  Her test automation development skills helped to build one most comprehensive test platforms in the industry, achieving 90% automation coverage.  As a test lead, Erica was able to build effective delivery with persistence, thoughtfulness, and team building.  Amongst the things that I appreciated most about Erica was her sense of humor that helped team cohesion."
+    },
+    {
+      "name": "Barbara Poore",
+      "reference": "Erica and I worked together from 2008-2012 at the US Geological Survey. Our project allowed for citizen inputs to the digital version of the National Map. For its time, the  project was at the cutting edge of geographic information science (GIS) research. It combined traditional methods of digital mapping with emerging social media technologies. Erica was instrumental in the planning and implementation of this project. She is an extremely creative problem solver with an extraordinary command of the principles of both GIS and computer programming. Erica is an out-of-the-box thinker and a hard worker. I would not hesitate to recommend her for any position."
+    },
+    {
+      "name": "Dan Lyke",
+      "reference": "It's been almost two decades since I worked with Eric at Signal Data, but I'd gladly do it again. We wrote some amazing software from bit twiddling the hardware to directly optimizing the database indexing code to building report generation systems."
+    },
+    {
+      "name": "Michael P. Finn",
+      "reference": "I have known Eric Wolf for two years. We are colleagues at the U. S. Geological Survey (USGS). We have worked together in the USGS’ Center of Excellence for Geospatial Information Science. We both work on various geospatial research pertaining to The National Map and related technologies. Eric is very good at seeing how to fuse these and how we best employed the resulting work in the future.  He is a talented individual and a fine geographer and computer scientist.\r\n\r\nEric’s excitement for marrying together new Web technologies with geospatial data is wonderful. I know of his keenness for developing programming language libraries that are applicable to the semantic web. He is successful working in a research team and brings a no-nonsense approach to any task we have conduct together. Eric is in the process of developing a fine corpus of scientific work over these past two years.  He displays leadership by coordinating with research teams on related investigations into geospatial data generalization and ontology problems. I feel that his inclination for exactness is one of the reasons he has done well in many activities."
+    },
+    {
+      "name": "Gary Hasty",
+      "reference": "In my dealings with Eric over the, egad almost 20 years, I've always found him to be a very detailed person.  As a game developer to his academic career he could always hold an audience's attention with the thought that went into each task he was involved in.  He's a great listener and always working with others to find the \"best\" solution and not just a \"good\" solution."
+    },
+    {
+      "name": "Mike Harrison",
+      "reference": "It's hard to write a recommendation for someone that worked for you umpteen years ago, you only remember bits and pieces of that era. What you do remember is that it started multiple business relationships and a friendship that transcends time and location. You know that Eric is a person whose attention to detail, process, and ways of thinking about and resolving problems are thoughts that you trust. You know that when Eric is faced with an option of an \"easy out\", and the \"right way\" of doing something, he'll choose the right way and make it work. You admire his ability to re-invent himself in ways that keep him ahead of the pack. I also worked with Eric on the qDebit project and look forward to working with him again some day. I heartily recommend Eric for anything without reservation."
+    },
+    {
+      "name": "Gregory Haddock",
+      "reference": "Eric was a very engaging student in our GIScience program.  His work was always top-notch and he usually followed up with discussions and questions above and beyond the assignments.  He is a committed member of academia and to the field of GIS and Geography.  He was a pleasure to have in our program."
+    },
+    {
+      "name": "Mike Kite",
+      "reference": "While I was at Microsports, in addition to being the Network Admin there,  I wrote all the music and produced all the sound effects for our games.  Eric wrote the sound engines for our games and did utility programming.  He made it very easy for the artists like myself to work through the technical aspects of getting our creations to flow transparently with the game without sacrificing fidelity or creativity.  But on the network side, he helped me get our disparate (SGI, Mac, Linux and PC) systems to work together. At the time he was programming in C and C++, there's no better coder out there."
+    },
+    {
+      "name": "Andrew Armstrong",
+      "reference": "It was Eric's recommendation and my meeting with the current owners that got me the job at Chattanooga Online."
+    }
+  ],
+  "projects": [
+    {
+      "name": "The National Map Corps",
+      "startDate": "2010-03-31",
+      "summary": "I was the lead systems administrator/programmer on a new incarnation of the US Geological Survey’s National Map Corps (TNMcorps).  The goal of the TNMcorps is to engage US citizens in improving the geospatial data that are integrated into The National Map. The TNMcorps has actually existed since the early 90s when citizens would “adopt a quad” (paper USGS topographic quadrangle maps) and make hand-edits to the map. The program evolved over the past two decades. In 2010, the current incarnation of TNMcorps was launched based on a copy of the OpenStreetMap (OSM) software platform.\n\nThe core OSM website is a Ruby on Rails application with a Postgres backend.  The site integrates the Javascript OpenLayers map interface and a ActionScript editing interface called Potlatch. In addition to the direct web interface, OSM provides a RESTful API for reading and writing data. To create the new TNMcorps system, I branched the OSM code on GitHub (https://github.com/ebwolf/openstreetmap-website) and made modifications throughout to meet USGS program needs and Federal compliance regulations. I also branched the Potlach2 code on GitHub (https://github.com/ebwolf/potlatch2) and modified the editor to provide a simplified user experience.  In addition to managing the TNMcorps platform, I have developed Python scripts to export the database into Esri ArcGIS File Geodatabase format for USGS internal processing\n",
+      "url": "https://www.usgs.gov/core-science-systems/ngp/tnm-corps",
+      "endDate": "2012-10-31"
+    },
+    {
+      "name": "USGS Open File Report: OpenStreetMap Collaborative Prototype, Phase One",
+      "startDate": "2010-08-31",
+      "summary": "Official USGS Publication on phase one of the latest version of The National Map Corps. The goal was to use the OpenStreetMap software platform to collect volunteered geographic information for integration with The National Map.",
+      "url": "http://pubs.usgs.gov/of/2011/1136/",
+      "endDate": "2011-07-31"
+    },
+    {
+      "name": "Low-Cost Large Scale Aerial Photography and the Upland South Folk Cemetery",
+      "startDate": "2005-09-30",
+      "summary": "Aerial Photography, normally acquired via platforms like airplanes and helicopters, is very expensive, requires significant lead-time, and lacks spatial resolution for small features. Large-scale imagery can be acquired using helium-balloon or kite platforms with consumer electronics at a significantly lower cost, at a higher spatial resolution and with more flexible temporal resolution. Increased spatial resolution allows for identification of small surface features such as cemetery headstones, power lines, and manhole covers. The spatial accuracy of images acquired through the low-cost large-scale method was assessed through identification of small spatial features common to the Upland South Cemetery. Unfortunately, the spatial accuracy of the features extracted from the imagery was relatively poor. However, the increased spatial resolutions and more flexible temporal resolutions were very useful in documenting spatial and cultural aspects of the Upland South Cemetery.\n\nUnfortunately, the electronic link to the PDF of my thesis is no longer being maintained. Please contact me if you would like a copy",
+      "url": null,
+      "endDate": "2006-04-30"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
