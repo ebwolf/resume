@@ -1,4 +1,3 @@
-{ "meta": { "theme": "macchiato" } }
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
@@ -6,9 +5,9 @@
     "label": "Software Engineer in Test | SAFe, Agile, Python, Quality Assurance, CI/CD",
     "image": "",
     "email": "ebwolf@gmail.com",
-    "phone": "7203347734",
-    "url": "",
-    "summary": "I am a Software Development Engineer in Test with ten years of experience at NetApp/Solidfire, a leading provider of cloud data services and data management solutions. I am passionate about ensuring the quality and reliability of software products and systems, especially in the hybrid cloud infrastructure (HCI) domain. \n\nAs part of a quality team, I use Python, Pytest, Jenkins, and Kubernetes to write, execute, and automate tests, analyze test requirements and results, triage failures, and extend the CI/CD process for systems level testing. A part of a feature development team, I used Java8 to contribute to the integration of VMware vSphere, VASA, and VVols features for the Solidfire storage system, which is the core component of NetApp HCI. I hold certifications as a ScrumMaster and a SAFe 4 Practitioner, and ITSQB Foundational Level, and I have mentored other young software engineers through AnitaB.org and Out in Technology. I strive to deliver high-quality software solutions that meet the needs and expectations of our customers and stakeholders.",
+    "phone": "+1 720 334 7734",
+    "url": "https://www.linkedin.com/in/ebwolf/",
+    "summary": "I am a Software Development Engineer in Test with ten years of experience at NetApp/Solidfire, a leading provider of cloud data services and data management solutions. I am passionate about ensuring the quality and reliability of software products and systems, especially in the hybrid cloud infrastructure (HCI) domain. \n\nAs part of a quality team, I use Python, Pytest, Jenkins, and Kubernetes to write, execute, and automate tests, analyze test requirements and results, triage failures, and extend the CI/CD process for systems level testing. A part of a feature development team, I used Java8 to contribute to the integration of VMware vSphere, VASA, and VVols features for the Solidfire storage system, which is the core component of NetApp HCI. I hold certifications as a ScrumMaster, SAFe 4.5 Practitioner, SAFe 4.5 Product Owner/Product Manager,  as well as ITSQB Foundational Level and Agile Tester, I have mentored other young software engineers through AnitaB.org and Out in Technology. I strive to deliver high-quality software solutions that meet the needs and expectations of our customers and stakeholders.",
     "location": {
       "countryCode": "US",
       "address": "530 Hiawatha Ave\nInverness, FL 34452"
@@ -91,7 +90,7 @@
       "endDate": "2001-10-31",
       "highlights": [],
       "summary": "•\tCreated a financial transaction processing system in Perl with Sybase ASE interfaced with the Federal Reserve ACH system to convert paper checks to electronic bank transactions.\n•\tAppended invoice data to electronic bank transactions resulting reduced transaction costs.",
-      "url": ""
+      "url": "http://www.qdebit.com"
     },
     {
       "name": "McKee Foods",
@@ -100,7 +99,7 @@
       "endDate": "2000-12-31",
       "highlights": [],
       "summary": "•\tHelped reduce costs for Little Debbie snack cakes using Oracle Pro*C to interface Oracle Process Manufacturing 11 with IBM Cognos data mining tools on HP/UX systems.",
-      "url": ""
+      "url": "https://www.mckeefoods.com/"
     },
     {
       "name": "Cyberflix",
@@ -109,7 +108,7 @@
       "endDate": "1999-08-31",
       "highlights": [],
       "summary": "•\tAdded DVD/MPEG2 video streaming to the cross-platform game engine, DreamFactory, used in the Disney Interactive title “The D-Show” featuring hundreds of movie clips from Disney media holdings.",
-      "url": ""
+      "url": "https://en.wikipedia.org/wiki/CyberFlix"
     },
     {
       "name": "Micro Sports, Inc.",
@@ -118,7 +117,7 @@
       "endDate": "1997-08-31",
       "highlights": [],
       "summary": "•\tCreated in-house tools in C to render game media assets created in Alias Wavefront using lower-cost PCs, resulting in higher quality game graphics produced in a fraction of the time required by SGI workstations.\n•\tAdded internet multiplayer capabilities to statistically accurate sports games.\n•\tCredited in sports games distributed by IBM Multimedia and Sports Illustrated.",
-      "url": ""
+      "url": "https://www.mobygames.com/company/1403/micro-sports-inc/"
     }
   ],
   "volunteer": [],
@@ -518,12 +517,13 @@
       "name": "Low-Cost Large Scale Aerial Photography and the Upland South Folk Cemetery",
       "startDate": "2005-09-30",
       "summary": "Aerial Photography, normally acquired via platforms like airplanes and helicopters, is very expensive, requires significant lead-time, and lacks spatial resolution for small features. Large-scale imagery can be acquired using helium-balloon or kite platforms with consumer electronics at a significantly lower cost, at a higher spatial resolution and with more flexible temporal resolution. Increased spatial resolution allows for identification of small surface features such as cemetery headstones, power lines, and manhole covers. The spatial accuracy of images acquired through the low-cost large-scale method was assessed through identification of small spatial features common to the Upland South Cemetery. Unfortunately, the spatial accuracy of the features extracted from the imagery was relatively poor. However, the increased spatial resolutions and more flexible temporal resolutions were very useful in documenting spatial and cultural aspects of the Upland South Cemetery.\n\nUnfortunately, the electronic link to the PDF of my thesis is no longer being maintained. Please contact me if you would like a copy",
-      "url": null,
+      "url": "https://www.nwmissouri.edu/library/theses/2006/WolfEric.pdf",
       "endDate": "2006-04-30"
     }
   ],
   "meta": {
     "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
+    "theme": "macchiato"
   }
 }
