@@ -1,3 +1,4 @@
+{ "meta": { "theme": "macchiato" } }
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
@@ -123,39 +124,21 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Travis High School, Austin, TX",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
-      "courses": []
-    },
-    {
-      "institution": "Poquoson High School",
-      "area": "Internship at NASA LaRC",
-      "studyType": "High School Diploma",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
-      "courses": []
-    },
-    {
       "institution": "Northwest Missouri State University",
       "area": "GIScience",
-      "studyType": "MS",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
+      "studyType": "Master of Science",
+      "startDate": "2004-08-31",
+      "endDate": "2006-05-31",      
+      "score": "4.0",
       "courses": []
     },
     {
       "institution": "The University of Tennessee at Chattanooga",
       "area": "Applied Mathematics",
-      "studyType": "BS",
-      "startDate": "",
-      "endDate": "",
-      "score": "",
+      "studyType": "Bachelor of Science",
+      "startDate": "1988-08-31",
+      "endDate": "2004-05-01",      
+      "score": "3.73",
       "courses": []
     }
   ],
