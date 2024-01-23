@@ -7,7 +7,7 @@
     "email": "ebwolf@gmail.com",
     "phone": "+1 720 334 7734",
     "url": "https://www.linkedin.com/in/ebwolf/",
-    "summary": "I am a Software Development Engineer in Test with ten years of experience at NetApp/Solidfire, a leading provider of cloud data services and data management solutions. I am passionate about ensuring the quality and reliability of software products and systems, especially in the hybrid cloud infrastructure (HCI) domain. \n\nAs part of a quality team, I use Python, Pytest, Jenkins, and Kubernetes to write, execute, and automate tests, analyze test requirements and results, triage failures, and extend the CI/CD process for systems level testing. A part of a feature development team, I used Java8 to contribute to the integration of VMware vSphere, VASA, and VVols features for the Solidfire storage system, which is the core component of NetApp HCI. I hold certifications as a ScrumMaster, SAFe 4.5 Practitioner, SAFe 4.5 Product Owner/Product Manager,  as well as ITSQB Foundational Level and Agile Tester, I have mentored other young software engineers through AnitaB.org and Out in Technology. I strive to deliver high-quality software solutions that meet the needs and expectations of our customers and stakeholders.",
+    "summary": "I am an experineced Software QA Engineer, specializing in Test Automation, with lots of certifications from ISTQB and SAFe.",
     "location": {
       "countryCode": "US",
       "address": "530 Hiawatha Ave\nInverness, FL 34452"
@@ -524,6 +524,6 @@
   "meta": {
     "version": "v1.0.0",
     "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json",
-    "theme": "macchiato"
+    "theme": "kendall"
   }
 }
