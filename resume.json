@@ -28,11 +28,20 @@
   "work": [
     {
       "name": "NetApp",
-      "position": "Software Development Engineer In Test",
-      "startDate": "2016-02-28",
-      "endDate": "2023-04-30",
+      "position": "Software Engineer in Test",
+      "startDate": "2020-01-01",
+      "endDate": "2023-04-01",
       "highlights": [],
-      "summary": "NetApp acquired Solidfire in 2016. Soon after, I was asked to join a new quality team working on a new HCI (Hybrid Cloud Infrastructure) product. The HCI product was based around VMware vSphere and my recent experience with VMware VASA and VVols as well as my experience with the Solidfire SAN product were assets this new team could utilize.\n\nAs a test automation engineer on a team responsible for the final quality of the NetApp HCI  product. I helped analyze test requirements, write test reports, triage failures in our CI/CD process, and extend the CI/CD process in Jenkins for systems level testing. I earned SAFe Certification for PO/PM, have had certification as a Scrum Master, as well as SAFe courses in CI/CD and Kanban. I participated in implementing Scaled Agile Framework (SAFe) across the NetApp/Solidfire engineering organization.\n\nStarting in 2020, Netapp has been pivoting hard towards solutions for Kubernetes. I received a promotion from MTS3 to MTS4 and shifted to primarily writing automated test code for our premier Kubernetes product line, Astra.\n\nI was active with several Diversity and Inclusion Business Resource Groups. I was membership lead for the new NetAbled Group for employees with exceptional abilities, Women in Technology (WIT) as a mentor, and the Pride group.",
+      "summary": "At the start of the Pandemic, I stepped down as lead becasue my magnager didn't need a lead because his schedule, which was filled with face-to-face meetings. I worked on automating test suites in Python with pytest running on an in-house framework built on Jenkins and GitHub actions. I was able to focus more on DEI Initiatives such as AnitaB.org, Out in Technology, and Employee Resouce Groups like Netabled."
+      "location": "Boulder, Colorado"
+    },
+    {
+      "name": "NetApp",
+      "position": "Lead Quality Engineer",
+      "startDate": "2016-02-28",
+      "endDate": "2020-01-01",
+      "highlights": [],
+      "summary": "I lead a team managing project quality for a new project at Netapp based on Solidfire storage, bespoke compute nodes, and VMWare vSphere called the HCI (Hybrid Cloud Infrastructure) product. The HCI product was based around VMware vSphere and my recent experience with VMware VASA and VVols as well as my experience with the Solidfire SAN product were assets this new team could utilize.\n\nAs a test automation engineer on a team responsible for the final quality of the NetApp HCI  product. I helped analyze test requirements, write test reports, triage failures in our CI/CD process, and extend the CI/CD process in Jenkins for systems level testing. I earned SAFe Certification for PO/PM, have had certification as a Scrum Master, as well as SAFe courses in CI/CD and Kanban. I participated in implementing Scaled Agile Framework (SAFe) across the NetApp/Solidfire engineering organization.\n\nStarting in 2020, Netapp has been pivoting hard towards solutions for Kubernetes. I received a promotion from MTS3 to MTS4 and shifted to primarily writing automated test code for our premier Kubernetes product line, Astra.\n\nI was active with several Diversity and Inclusion Business Resource Groups. I was membership lead for the new NetAbled Group for employees with exceptional abilities, Women in Technology (WIT) as a mentor, and the Pride group.",
       "url": "https://www.linkedin.com/company/netapp/",
       "location": "Boulder, Colorado"
     },
