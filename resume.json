@@ -2,14 +2,14 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Erica Wolf",
-    "label": "Software Engineer in Test | SAFe, Agile, Python, Quality Assurance, CI/CD",
+    "label": "Software Engineer  | DEI, SAFe, Agile, Python, Quality Assurance, CI/CD",
     "image": "",
     "email": "ebwolf@gmail.com",
     "phone": "+1 720 334 7734",
     "url": "https://www.linkedin.com/in/ebwolf/",
-    "summary": "I am an experineced Software QA Engineer, specializing in Test Automation, with lots of certifications from ISTQB and SAFe.",
+    "summary": "I am an experineced Software Engineer, specializing in The connection between team diversity and code quality.",
     "location": {
-      "countryCode": "US",
+      "countryCode": "DE",
       "address": "530 Hiawatha Ave\nInverness, FL 34452"
     },
     "profiles": [
@@ -19,9 +19,9 @@
         "url": "https://www.linkedin.com/in/ebwolf/"
       },
       {
-        "network": "Twitter",
-        "username": "ebwolf",
-        "url": "https://twitter.com/ebwolf"
+        "network": "Facebook",
+        "username": "TiaLobo0807",
+        "url": https://www.facebook.com/TiaLobo0807"
       }
     ]
   },
